@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<HTML>
+ <head>
+  <title>www.coffeeplantory.ir</title>
+ </head>
+ <body style="background-color:#F5F5DC"/>
+   <header>
+    <h1 style="color:green">coffee<sup>plantory</h1><hr>
+   </header>
+   <main>
+    <h1 style="color:red"><big><i>first things first</i></h1>
+    <h2>we have two kinds of coffee</h2>
+     <ol type="1">
+       <li>robousta</li>
+       <li>arabica</li>
+     </ol>
+     <br>
+       <p><h1><b>we have diffrent kind of veriety of coffee beans</h1></p>
+         <table>
+           <caption><h2>the variety of coffee beans<h2></caption>
+            <thead>
+             <tr>
+              <th>colombia</th>
+              <th>mexico</th>
+              <th>colombia</th>
+              <th>ethiopia</th>
+             </tr>
+           </thead>
+            <tbody>
+             <tr>
+              <td>caturra</td>
+              <td>bourbon</td>
+              <td>catuai</td>
+              <td>heirlooms</td>
+             </tr>
+           </tbody>
+         </table>
+
+      <h1><div>hello</div>
+          <div>good morning</div></h1>
+
+
+    <p style="color:green"><big><big><b><i>you will know anything about coffee plant</i></p>
+    <a href="https://perfectdailygrind.com/"target="_blank">
+    <img height="500" src="https://images.squarespace-cdn.com/content/v1/5d417b038660c90001136348/1577605484555-SFRM2IE7SIQ8DGMEDUB6/VitriArt_Arabica+Coffee+Branch_70x100cm.jpg?format=1000w"alt="really beautiful coffee plant"/>
+    </a>
+    <video src="<iframe width="560" height="315" src="https://www.youtube.com/embed/pQN-pnXPaVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"/>
+
+    </main>
+   <footer>
+    <p>for more information<a href="atom second site"target="_blank"><big>click here</big></a>
+     <br>for a sweet video about coffee plant click video <a href="hello"target="-_blank"><big>video</big>
+    <br><a href="https://h2.commercev3.net/cdn.gurneys.com/images/800/11295_1.jpg"target="_blank"><big>another coffee picture
+    <br><a href="i love cooking" target="_blank"><b><big>here is my cooking site</big></b>
+   </footer>
+ </body>
